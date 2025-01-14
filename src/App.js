@@ -1,8 +1,8 @@
-import { card } from "@/components/ui/card";
+import { Card } from "./components/ui/Card";
 function App() {
   return (
     <div className="App">
-      <card />
+      <Card />
     </div>
   );
 }
